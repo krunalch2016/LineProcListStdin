@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinesProcListStdin.Net", "LinesProcListStdin.Net\LinesProcListStdin.Net.csproj", "{29B07A92-412C-4E67-BD5B-5AD64C943EC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29B07A92-412C-4E67-BD5B-5AD64C943EC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29B07A92-412C-4E67-BD5B-5AD64C943EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29B07A92-412C-4E67-BD5B-5AD64C943EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29B07A92-412C-4E67-BD5B-5AD64C943EC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5695CDF-B5F6-4020-8078-9B9766F2BC30}
+	EndGlobalSection
+EndGlobal
